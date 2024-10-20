@@ -18,8 +18,8 @@ const APP_SHELL = [
 ]
 
 const APP_SHELL_INMUTABLE = [
-  'https://fonts.googleapis.com/css?family=Quicksand:300,400',
-  'https://fonts.googleapis.com/css?family=Lato:400,300',
+  // 'https://fonts.googleapis.com/css?family=Quicksand:300,400',
+  // 'https://fonts.googleapis.com/css?family=Lato:400,300',
   'css/animate.css',
   'js/libs/jquery.js'
 ]
